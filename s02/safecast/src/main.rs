@@ -2,7 +2,7 @@ use chrono::{DateTime, Utc};
 use std::env;
 use std::fs;
 
-// Process Safecast logs using their APIs
+// Process Safecast logs using their APIs 
 // We will use the following log as an example:
 //          https://api.safecast.org/en-US/bgeigie_imports/35932
 
